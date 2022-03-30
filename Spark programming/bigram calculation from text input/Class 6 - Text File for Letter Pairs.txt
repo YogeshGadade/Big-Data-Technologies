@@ -1,0 +1,94 @@
+
+Data have become a torrent flowing into every area of the global economy.1 Companies churn out a 
+burgeoning volume of transactional data, capturing trillions of bytes of information about their 
+customers, suppliers, and operations. millions of networked sensors are being embedded in the 
+physical world in devices such as mobile phones, smart energy meters, automobiles, and industrial 
+machines that sense, create, and communicate data in the age of the Internet of Things.2 Indeed, as 
+companies and organizations go about their business and interact with individuals, they are 
+generating a tremendous amount of digital “exhaust data,” i.e., data that
+are created as a by-product of other activities. Social media sites, smartphones, and other 
+consumer devices including PCs and laptops have allowed billions of individuals around the world to 
+contribute to the amount of big data available. And the growing volume of multimedia content has 
+played a major role in the exponential
+growth in the amount of big data (see Box 1, “What do we mean by ‘big data’?”). Each second of 
+high-definition video, for example, generates more than 2,000 times as many bytes as required to 
+store a single page of text. In a digitized world, consumers going about their day—communicating, 
+browsing, buying, sharing, searching—
+create their own enormous trails of data.
+In itself, the sheer volume of data is a global phenomenon—but what does it mean? Many citizens 
+around the world regard this collection of information with deep suspicion, seeing the data flood 
+as nothing more than an intrusion of their privacy. But there is strong evidence that big data can 
+play a significant economic role to the benefit not only of private commerce but also of national 
+economies and their citizens. Our research finds that data can create significant value for the 
+world economy, enhancing the productivity and competitiveness of companies and the
+
+public sector and creating substantial economic surplus for consumers. For instance, if US health 
+care could use big data creatively and effectively to drive efficiency and quality, we estimate 
+that the potential value from data in the sector could be more  than $300 billion in value every 
+year, two-thirds of which would be in the form of reducing national health care expenditures by 
+about 8 percent. In the private sector, we estimate, for example, that a retailer using big data to 
+the full has the potential to increase its operating margin by more than 60 percent. In the 
+developed economies of Europe, we estimate that government administration could save more than
+€100 billion ($149 billion) in operational efficiency improvements alone by using big data. This 
+estimate does not include big data levers that could reduce fraud, errors, and tax gaps (i.e., the 
+gap between potential and actual tax revenue).
+
+Digital data is now everywhere—in every sector, in every economy, in every organization and user of 
+digital technology. While this topic might once have concerned only a few data geeks, big data is 
+now relevant for leaders across every sector, and consumers of products and services stand to 
+benefit from its application. The ability to store, aggregate, and combine data and then use the 
+results to perform deep analyses has become ever more accessible as trends such as Moore’s Law
+in computing, its equivalent in digital storage, and cloud computing continue to lower costs and 
+other technology barriers.3 For less than $600, an individual can purchase a disk drive with the 
+capacity to store all of the world’s music.4 The means to extract insight from data are also 
+markedly improving as software available to apply increasingly sophisticated techniques combines 
+with growing computing horsepower. Further, the ability to generate, communicate, share, and access 
+data has been revolutionized by the increasing number of people, devices, and sensors that are now 
+connected by digital networks. In 2010, more than 4 billion people,
+or 60 percent of the world’s population, were using mobile phones, and about 12 percent of those 
+people had smartphones, whose penetration is growing at
+more than 20 percent a year. More than 30 million networked sensor nodes are now present in the 
+transportation, automotive, industrial, utilities, and retail sectors. The number of these sensors 
+is increasing at a rate of more than 30 percent a year.
+
+There are many ways that big data can be used to create value across sectors of the global economy. 
+Indeed, our research suggests that we are on the cusp of a tremendous wave of innovation, 
+productivity, and growth, as well as new modes of
+competition and value capture—all driven by big data as consumers, companies, and economic sectors 
+exploit its potential. But why should this be the case now? Haven’t data always been part of the 
+impact of information and communication technology?
+Yes, but our research suggests that the scale and scope of changes that big data are bringing about 
+are at an inflection point, set to expand greatly, as a series of
+technology trends accelerate and converge. We are already seeing visible changes in the economic 
+landscape as a result of this convergence.
+
+Many pioneering companies are already using big data to create value, and others need to explore 
+how they can do the same if they are to compete. Governments,
+too, have a significant opportunity to boost their efficiency and the value for money
+they offer citizens at a time when public finances are constrained—and are likely to remain so due 
+to aging populations in many countries around the world. Our research suggests that the public 
+sector can boost its productivity significantly through the effective use of big data.
+
+However, companies and other organizations and policy makers need to address considerable 
+challenges if they are to capture the full potential of big data. A shortage of the analytical and 
+managerial talent necessary to make the most of big data is
+a significant and pressing challenge and one that companies and policy makers can begin to address 
+in the near term. The United States alone faces a shortage of
+140,000 to 190,000 people with deep analytical skills as well as 1.5 million managers and analysts 
+to analyze big data and make decisions based on their findings. The shortage of talent is just the 
+beginning. Other challenges we explore in this report include the need to ensure that the right 
+infrastructure is in place and that incentives and competition are in place to encourage continued 
+innovation; that the economic benefits to users, organizations, and the economy are properly 
+understood; and that safeguards are in place to address public concerns about big data.
+
+This report seeks to understand the state of digital data, how different domains can use large 
+datasets to create value, the potential value across stakeholders, and the implications for the 
+leaders of private sector companies and public sector
+organizations, as well as for policy makers. We have supplemented our analysis of big data as a 
+whole with a detailed examination of five domains (health care in the United States, the public 
+sector in Europe, retail in the United States, and manufacturing and personal location data 
+globally). This research by no means represents the final word on big data; instead, we see it as a 
+beginning. We fully anticipate that this is a story that will continue to evolve as technologies 
+and techniques using big data develop and data, their uses, and their economic benefits grow 
+(alongside associated
+challenges and risks). For now, however, our research yields seven key insights:
